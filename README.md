@@ -20,4 +20,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-Discrod server: https://discord.gg/HESyfBuj9w
+Discrod server: https://dsc.gg/mods-by-misha
+
