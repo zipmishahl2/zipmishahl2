@@ -1,4 +1,13 @@
-### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+---
+```zsh
+> Owher/Developer DraganOS
+```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zipmishahl2)](https://github.com/anuraghazra/github-readme-stats)
+```csharp
+OS   :  Windows 10 DraganOS
+CPU  :  AMD Ryzen 5 1600X 6-Core Processor
+GPU  :  NVIDIA GeForce GTX 1060
+RAM  :  16 GB HyperX 3600Mhz
+```
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zipmishahl2&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
