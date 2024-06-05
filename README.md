@@ -7,7 +7,7 @@
 OS   :  Windows 10 DraganOS
 CPU  :  AMD Ryzen 5 1600X 6-Core Processor 3.7Mhz
 GPU  :  NVIDIA GeForce GTX 1060
-RAM  :  16 GB HyperX 3600Mhz
+RAM  :  16 GB HyperX 3200Mhz
 ```
 ### 📓 Projects
 - **HL2:REBOOT**: [HL2:REBOOT](https://hl2reboot.vercel.app/)
