@@ -1,6 +1,6 @@
 ---
 ```zsh
-> Owher/Developer DraganOS
+>_ Creator DraganOS
 ```
 
 ```csharp
