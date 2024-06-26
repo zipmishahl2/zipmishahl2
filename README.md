@@ -11,7 +11,7 @@ RAM  :  16 GB HyperX 3200Mhz
 ```
 ### 📓 Projects
 - **HL2:REBOOT**: [HL2:REBOOT](https://hl2reboot.vercel.app/)
-- **DraganOS**: [DraganOS](https://discord.gg/jn2r8rN457)
+- **DraganOS**: [DraganOS](dsc.gg/draganos)
 
 ### ✉️ Contact
 - **Steam:** [id/combineV2](https://steamcommunity.com/id/combinev2)
