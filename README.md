@@ -1,6 +1,6 @@
 ---
 ```zsh
->_ Creator DraganOS
+> Creator DraganOS
 ```
 
 ```csharp
@@ -15,6 +15,6 @@ RAM  :  16 GB HyperX 3200Mhz
 
 ### ✉️ Contact
 - **Steam:** [id/combineV2](https://steamcommunity.com/id/combinev2)
-- **Discord:** @jamergamer_mod (1005063808441663560)
+- **Discord:** [jamergamer_mod](https://discord.com/users/jamergamer_mod)
 
 ![zipmishahl2 Stats](https://github-readme-stats.vercel.app/api?username=zipmishahl2&theme=dark&show_icons=true&hide_border=true&count_private=true)
